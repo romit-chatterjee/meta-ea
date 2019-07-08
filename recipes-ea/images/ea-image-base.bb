@@ -37,7 +37,6 @@ IMAGE_INSTALL = "\
    mtdev \
    ea-files \
    mmc-utils \
-   hostapd \
 "
 
 inherit core-image
